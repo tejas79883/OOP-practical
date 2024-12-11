@@ -74,14 +74,14 @@ USing concepts of Object-Oriented programming develop solution for any one appli
 
 ## TITLE
 
-10. Factory Design Pattern
+10. Factory Design Pattern:-
 Implement Factory design pattern for the given context. Consider Car building process, which
 requires many steps from allocating accessories to final makeup. These steps should be written as
 methods and should be called while creating an instance of a specific car type. Hatchback, Sedan,
 SUV could be the subclasses of Car class. Car class and its subclasses, CarFactory and Test Factory
 Pattern should be implemented/
 
-11. Strategy Design Pattern
+11. Strategy Design Pattern:-
 Implement and apply Strategy Design pattern for simple Shopping Cart where three payment
 strategies are used such as Credit Card, PayPal, Bit Coin. Create an interface for strategy pattern
 and give concrete implementation for payment
